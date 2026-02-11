@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about life.
 - 💞️ I’m looking to collaborate with every git repository and team(s).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a duolingo streak of fifteen hundred days.
+- ⚡ Fun fact: I have a ~~duolingo~~ lingvist streak of ~~fifteen hundred~~ fifty days.
 
 <!---
 joao-antao/joao-antao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
